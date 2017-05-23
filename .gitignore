@@ -1,3 +1,4 @@
 node_modules/
+server/public/scripts/
 .DS_store
 *.log

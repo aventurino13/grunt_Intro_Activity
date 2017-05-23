@@ -1,4 +1,4 @@
-myApp.service('HeroService', function($http) {
+myApp.service('HeroService', ['http',function($http) {
 
   // function to add hero to the database
   this.addHeroToDB = function(heroObject) {
@@ -17,4 +17,4 @@ myApp.service('HeroService', function($http) {
       return response.data;
     });
   }
-});
+}]);
