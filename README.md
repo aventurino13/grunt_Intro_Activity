@@ -37,3 +37,4 @@ The following files **will** need your attention:
 - [ ] `index.html` will need some ng directives to work with `script.js`. Some directives you will need: `ng-app`, `ng-controller`, `ng-model`, `ng-click`, and `ng-repeat`.
 
 No other files will need your attention.
+# grunt_Intro_Activity
